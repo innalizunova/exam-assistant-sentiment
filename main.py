@@ -57,5 +57,5 @@ if __name__ == "__main__":
 
     # LDA analysis
     #    lda_model_type_options: ['lda', 'mallet']
-    lda_analysis(load_model=False, lda_model_type='mallet', data_folder=results_folder, results_folder=results_folder,
+    lda_analysis(load_model=False, lda_model_type='lda', data_folder=results_folder, results_folder=results_folder,
                  csv_file_name=results_file_name, mallet_download_folder=mallet_download_folder)
