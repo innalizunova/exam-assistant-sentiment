@@ -1,0 +1,11 @@
+pandas
+tensorflow==1.14.0
+tqdm
+sklearn
+matplotlib
+nltk
+gensim
+pymorphy2
+dload
+bert-embedding
+keras
