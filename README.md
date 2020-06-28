@@ -17,7 +17,7 @@ Download small archive (only Russian test data) https://drive.google.com/file/d/
 ## Preprocessing
 Folder 'preprocessing' contains scripts for texts preprocessing and Multilingual BERT embeddings extraction. 
 
-BERT-features extraction is a long process (~ 19h on GTX 2080Ti for all files). Archive contains already extracted features.
+BERT-features extraction is a long process (~19h on RTX 2080Ti for all files). Archive contains already extracted features.
 
 ## Run code
 Run main.py to launch code.
