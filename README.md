@@ -1,7 +1,7 @@
 # Sentiment analysis and LDA analysis module for Exam Dialogue Assistant
 
 ## Data
-Download data from <link will be here soon> (zip - ? GB, unzipped - 41 GB) 
+Download data from 'link will be here soon' (zip - ? GB, unzipped - 41 GB) 
 
 Folder 'data' contains csv files from 3 sources:
 - tonality dataset on English (for training)
