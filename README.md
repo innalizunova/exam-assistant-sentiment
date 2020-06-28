@@ -1,7 +1,7 @@
 # Sentiment analysis and LDA analysis module for Exam Dialogue Assistant
 
 ## Data
-Download data from https://drive.google.com/file/d/1_ne2aQjQLlqM_-zH2bMnUeSFzg6kypU3/view (zip - 56 GB, unzipped - 81 GB) 
+Download data from <link will be here soon> (zip - ? GB, unzipped - 41 GB) 
 
 Folder 'data' contains csv files from 3 sources:
 - tonality dataset on English (for training)
@@ -25,3 +25,5 @@ Run main.py to launch code.
 It's necessary to specify all data paths. 
 
 You can train your own LSTM and LSA models or load existing models using boolean parameter load_model in sentiment_analysis() and lda_analysis() functions. 
+
+First training will be longer because of creating files with converted embeddings.
