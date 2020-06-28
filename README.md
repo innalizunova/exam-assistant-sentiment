@@ -15,13 +15,13 @@ Folder 'results' contains LSTM and LDA models’ files
 Download small archive, only Russian test data https://drive.google.com/file/d/1jkUNeemYIQSkdaqgcIjj53MCEaxU9bCZ/view (zip - 164 MB)
 
 ## Preprocessing
-Folder 'preprocessing' contains scripts for texts preprocessing and Multilingual BERT embeddings extracting. 
+Folder 'preprocessing' contains scripts for texts preprocessing and Multilingual BERT embeddings extraction. 
 
-BERT-features extracting is very long process (~ 18h on GTX 2080Ti for all files). Archive contains already extracted features.
+BERT-features extraction is very long process (~ 19h on GTX 2080Ti for all files). Archive contains already extracted features.
 
 ## Run code
 Run main.py to launch code.
 
 It's necessary to specify all data paths. 
 
-You can train you own LSTM and LSA model or load existing models using boolean parameter load_model in sentiment_analysis() and lda_analysis() functions. 
+You can train your own LSTM and LSA models or load existing models using boolean parameter load_model in sentiment_analysis() and lda_analysis() functions. 
